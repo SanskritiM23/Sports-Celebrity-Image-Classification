@@ -3,11 +3,12 @@ Developed an innovative sports personality image classification system using cut
 ![image](https://github.com/SanskritiM23/Sports-Celebrity-Image-Classification/assets/154253224/c58441f2-5948-4a36-9fb8-88af626720e5)
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
+- Maria Sharapova
+- Serena Williams
+- Virat Kohli
+- Roger Federer
+- Lionel Messi
+
 Here is the folder structure,
 
 UI : This contains ui website code
