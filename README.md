@@ -9,20 +9,28 @@ In this data science and machine learning project, we classify sports personalit
 - Roger Federer
 - Lionel Messi
 
-Here is the folder structure,
+## Folder Structure
 
-UI : This contains ui website code
-server: Python flask server
-model: Contains python notebook for model building
-google_image_scrapping: code to scrap google for images
-images_dataset: Dataset used for our model training
-Technologies used in this project,
+This repository contains the following directories:
 
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code.
-Python flask for http server
-HTML/CSS/Javascript for UI
+- **UI:** Contains the UI website code.
+- **Server:** Contains the Python Flask server code.
+- **Model:** Contains Python notebooks for model building.
+- **Google_Image_Scraping:** Contains the code to scrape Google for images.
+- **Images_Dataset:** Contains the dataset used for model training.
+
+## Technologies Used
+
+### Data Cleaning and Visualization
+- Python: Numpy, OpenCV
+- Data Visualization: Matplotlib, Seaborn
+
+### Model Building
+- Machine Learning: Scikit-learn
+- Python Libraries: Jupyter Notebook, Visual Studio Code
+
+### Web Development
+- Server: Python Flask
+- UI: HTML, CSS, JavaScript
+
 
